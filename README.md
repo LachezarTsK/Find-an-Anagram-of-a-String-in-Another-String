@@ -12,7 +12,7 @@ where for each substring of the String to be checked:
 - a StringBuilder with the anagram has to be initiated (max length less than 13).
 - each char in current substring with the lengthg of the anagram (max length less than 13) has to be checked. 
 
-  Thus, if the length of the anagram is less than 13 chars, there is a total of less than 26 iterations for each subtring  
+  Thus, if the length of the anagram is less than 13 chars, there is a total of less than 26 iterations for each substring 
   of the String to be checked.
 
 2. Otherwise, the most efficient way could be "SolutionTwoArrays". Since the length of each of the two arrays is equal to number of letters in the English alphabet, there will be always 26 iterations for each substring of the String to be checked, regardless of the length of the anagram.   
