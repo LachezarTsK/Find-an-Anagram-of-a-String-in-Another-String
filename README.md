@@ -10,7 +10,7 @@ The input of this challenge is only lowercase English letters. Althouhg the maxi
 with "SolutionStringBuilder". This follows from the worst case scenario,
 where for each substring of the String to be checked:
 - a StringBuilder with the anagram has to be initiated (max length less than 13).
-- each char in current substring with the lengthg of the anagram (max length less than 13) has to be checked. 
+- each char of current substring (max length less than 13) has to be checked. 
 
   Thus, if the length of the anagram is less than 13 chars, there is a total of less than 26 iterations for each substring 
   of the String to be checked.
