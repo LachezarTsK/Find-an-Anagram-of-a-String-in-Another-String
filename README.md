@@ -1,7 +1,7 @@
 
 # Find-an-Anagram-of-a-String-in-Another-String
 
-Challenge at edabit.com: strings, validation.
+Challenge at edabit.com. Tags: Strings, Validation.
 ----------------------------------------------
 The input of this challenge is only lowercase English letters. Althouhg the maximum length of the anagram is not stated, if it is known, there could be different approaches for the most efficient solution. 
 
